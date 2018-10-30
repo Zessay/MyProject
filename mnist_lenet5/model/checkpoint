@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Project\\mnist_lenet5\\model\\mnist_model.ckpt-1"
+all_model_checkpoint_paths: "D:\\Project\\mnist_lenet5\\model\\mnist_model.ckpt-1"
